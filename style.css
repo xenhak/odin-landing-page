@@ -21,6 +21,8 @@
 
 .logo-text {
     font-weight: 600;
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 .links {
@@ -38,12 +40,15 @@
 }
 
 .left-text-btn h1 {
-    max-width: 225px;
-    font-weight: 800;
+    max-width: 335px;
+    font-weight: 900;
+    font-size: 48px;
 }
 
 .left-text-btn p {
-    max-width: 505px;
+    max-width: 550px;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .left-btn {
